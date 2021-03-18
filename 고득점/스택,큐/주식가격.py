@@ -10,5 +10,3 @@ def solution(prices):
         answer.append(cnt)
     return answer
 
-# prices[0 ] = 498 값은 prices[2] = 470 으로 감소하는데 2초가 걸렸다.
-# prices[1] = 501 값은 prices[2] = 470 으로 감소하는데 1초가 걸렸다.
